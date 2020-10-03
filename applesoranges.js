@@ -35,7 +35,7 @@ function countApplesAndOranges(s, t, a, b, apples, oranges) {
       apple_count += 1;
     }
   }
-  console.log(apple_count);
+  console.log("Apple's: " + apple_count);
 
   return 0;
 }
