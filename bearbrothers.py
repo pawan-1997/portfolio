@@ -9,6 +9,7 @@ for i in range(b):
     b = b*2
     if(a > b):
         years = i + 1
+        print("Exiting....")
         break
 
 print(years)
